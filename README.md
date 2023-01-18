@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<picture>
+  <img src="https://gist.githubusercontent.com/HaveF/42365ee9c6c492a7b36bc31f7ec0240f/raw/github-metrics.svg" alt="Metrics">
+</picture>
+
+
 <!--
 **HaveF/havef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

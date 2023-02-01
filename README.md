@@ -4,7 +4,7 @@
 
 > Hi there 👋 I have a book coming out on data science, "KNIME Visualizing Data Analysis", which is the first and only KNIME-related tutorial in Chinese.
 
-> Maybe you want to read <a href="https://www.havef.fun/book-intro/" target="_blank">what the book is about first(in Chinese)</a> / <a href="https://www-havef-fun.translate.goog/book-intro/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en" target="_blank">translated to English via Google</a>; maybe you want to read <a href="https://www.havef.fun/docs/intro" target="_blank">some of the drafts of the book before it is published(in Chinese)</a>? Or maybe you have some data problems that you would like to solve? <a href="http://localhost:3000/consulting/flows-en/" target="_blank">Don't hesitate to contact me📫📞</a>
+> Maybe you want to read <a href="https://www.havef.fun/book-intro/" target="_blank">what the book is about first(in Chinese)</a> / <a href="https://www-havef-fun.translate.goog/book-intro/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en" target="_blank">translated to English via Google</a>; maybe you want to read <a href="https://www.havef.fun/docs/intro" target="_blank">some of the drafts of the book before it is published(in Chinese)</a>? Or maybe you have some data problems that you would like to solve? <a href="http://www.havef.fun/consulting/flows-en/" target="_blank">Don't hesitate to contact me📫📞</a>
 
 
 <picture>

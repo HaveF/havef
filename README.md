@@ -4,7 +4,7 @@
 
 > Hi there 👋 I have a book coming out on data science, "KNIME Visualizing Data Analysis", which is the first and only KNIME-related tutorial in Chinese.
 
-> Maybe you want to read [what the book is about first(in Chinese)](https://www.havef.fun/book-intro/) / [translated to English via Google](https://www-havef-fun.translate.goog/book-intro/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en); maybe you want to read [some of the drafts of the book before it is published](https://www.havef.fun/docs/intro)? Or maybe you have some data problems that you would like to solve? [Don't hesitate to contact me📫📞](https://www.havef.fun/consulting/flows)
+> Maybe you want to read [what the book is about first(in Chinese)](https://www.havef.fun/book-intro/) / [translated to English via Google](https://www-havef-fun.translate.goog/book-intro/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en); maybe you want to read [some of the drafts of the book before it is published(in Chinese)](https://www.havef.fun/docs/intro)? Or maybe you have some data problems that you would like to solve? [Don't hesitate to contact me📫📞](http://localhost:3000/consulting/flows-en/)
 
 
 <picture>

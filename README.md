@@ -1,6 +1,6 @@
 # 书籍和咨询 / book and consulting
 
-嗨👋！您好！我将有一本关于数据科学的书籍出版《KNIME 视觉化数据分析》，这是第一本也是目前唯一一本 KNIME 相关的中文教程。
+嗨👋！您好！我是指北君，我将有一本关于数据科学的书籍出版 ---《KNIME 视觉化数据分析》，这是第一本也是目前唯一一本 KNIME 相关的中文教程。
 
 也许您想先看一下<a href="https://www.havef.fun/book-intro/" target="_blank">这本书里面都讲了什么</a>；也许您想读一下<a href="https://www.havef.fun/docs/intro" target="_blank">这本书成书之前的部分草稿？</a>；或者您有一些数据方面的问题想找人聊聊？别犹豫，<a href="https://www.havef.fun/consulting/flows" target="_blank">📫📞联系我好了</a>
 

@@ -26,5 +26,5 @@
 <!-- blog starts -->
 
 <!-- blog ends -->
-More on [havef.fun](https://havef.fun/)
+More on <a href="https://havef.fun/" target="_blank">https://havef.fun</a>
 </td><td valign="top" width="33%">

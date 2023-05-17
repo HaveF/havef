@@ -35,6 +35,10 @@
 [🔖 Palladian 扩展节点 2 分钟介绍](https://havef.fun/blog/palladian-nodes-intro) - Wed, 26 Apr 2023
 
 [💡 你什么也无法告诉别人 by Chip Morningstar](https://havef.fun/blog/you-cant-tell-people-anything) - Tue, 25 Apr 2023
+
+[📝 如何回应一个不满的客户/读者？](https://havef.fun/blog/how-to-response-an-unhappy-customer) - Mon, 24 Apr 2023
+
+[💡 读读旧书 by Ted Lamade](https://havef.fun/blog/read-old-books-by-ted-lamade) - Sun, 23 Apr 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/" target="_blank">https://havef.fun</a>
 </td><td valign="top" width="33%">

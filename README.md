@@ -40,5 +40,5 @@
 
 [💡 读读旧书 by Ted Lamade](https://havef.fun/blog/read-old-books-by-ted-lamade) - Sun, 23 Apr 2023
 <!-- blog ends -->
-More on <a href="https://havef.fun/" target="_blank">https://havef.fun</a>
+More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

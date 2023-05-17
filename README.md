@@ -24,7 +24,17 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[⚽ 使用 KNIME 分析足球比赛数据](https://havef.fun/blog/knime-football-passes-analysis) - Tue, 16 May 2023
 
+[🥷 [S2] Challenge 07](https://havef.fun/blog/s2c07) - Mon, 15 May 2023
+
+[🥷 [S2] Challenge 06](https://havef.fun/blog/s2c06) - Mon, 08 May 2023
+
+[🥷 [S2] Challenge 05](https://havef.fun/blog/s2c05) - Thu, 27 Apr 2023
+
+[🔖 Palladian 扩展节点 2 分钟介绍](https://havef.fun/blog/palladian-nodes-intro) - Wed, 26 Apr 2023
+
+[💡 你什么也无法告诉别人 by Chip Morningstar](https://havef.fun/blog/you-cant-tell-people-anything) - Tue, 25 Apr 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/" target="_blank">https://havef.fun</a>
 </td><td valign="top" width="33%">

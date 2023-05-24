@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[🥷 [S2] Challenge 08](https://havef.fun/blog/s2c08) - Tue, 23 May 2023
+
 [⚽ 使用 KNIME 分析足球比赛数据](https://havef.fun/blog/knime-football-passes-analysis) - Tue, 16 May 2023
 
 [🥷 [S2] Challenge 07](https://havef.fun/blog/s2c07) - Mon, 15 May 2023
@@ -37,8 +39,6 @@
 [💡 你什么也无法告诉别人 by Chip Morningstar](https://havef.fun/blog/you-cant-tell-people-anything) - Tue, 25 Apr 2023
 
 [📝 如何回应一个不满的客户/读者？](https://havef.fun/blog/how-to-response-an-unhappy-customer) - Mon, 24 Apr 2023
-
-[💡 读读旧书 by Ted Lamade](https://havef.fun/blog/read-old-books-by-ted-lamade) - Sun, 23 Apr 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

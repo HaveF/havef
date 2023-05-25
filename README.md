@@ -24,6 +24,10 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[🔎 KNIME 节点巡礼 -- column expressions（列表达式）节点](https://havef.fun/blog/knime-column-expressions) - Thu, 25 May 2023
+
+[🔎 KNIME 节点巡礼 -- row filter（行过滤）节点](https://havef.fun/blog/knime-row-filter) - Wed, 24 May 2023
+
 [🥷 [S2] Challenge 08](https://havef.fun/blog/s2c08) - Tue, 23 May 2023
 
 [⚽ 使用 KNIME 分析足球比赛数据](https://havef.fun/blog/knime-football-passes-analysis) - Tue, 16 May 2023
@@ -35,10 +39,6 @@
 [🥷 [S2] Challenge 05](https://havef.fun/blog/s2c05) - Thu, 27 Apr 2023
 
 [🔖 Palladian 扩展节点 2 分钟介绍](https://havef.fun/blog/palladian-nodes-intro) - Wed, 26 Apr 2023
-
-[💡 你什么也无法告诉别人 by Chip Morningstar](https://havef.fun/blog/you-cant-tell-people-anything) - Tue, 25 Apr 2023
-
-[📝 如何回应一个不满的客户/读者？](https://havef.fun/blog/how-to-response-an-unhappy-customer) - Mon, 24 Apr 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[【论文简评】GPT-4 是一个好的数据分析师吗？](https://havef.fun/blog/is-gpt4-a-good-data-analyst) - Sun, 28 May 2023
+
 [🔎 KNIME 节点巡礼 -- column expressions（列表达式）节点](https://havef.fun/blog/knime-column-expressions) - Thu, 25 May 2023
 
 [🔎 KNIME 节点巡礼 -- row filter（行过滤）节点](https://havef.fun/blog/knime-row-filter) - Wed, 24 May 2023
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 06](https://havef.fun/blog/s2c06) - Mon, 08 May 2023
 
 [🥷 [S2] Challenge 05](https://havef.fun/blog/s2c05) - Thu, 27 Apr 2023
-
-[🔖 Palladian 扩展节点 2 分钟介绍](https://havef.fun/blog/palladian-nodes-intro) - Wed, 26 Apr 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

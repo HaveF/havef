@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[GroupBy 节点的 Pattern Based Aggregation 标签页](https://havef.fun/blog/groupby-pattern-based-aggregation) - Mon, 05 Jun 2023
+
 [🥷 [S2] Challenge 10](https://havef.fun/blog/s2c10) - Thu, 01 Jun 2023
 
 [🥷 [S2] Challenge 09](https://havef.fun/blog/s2c09) - Mon, 29 May 2023
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 08](https://havef.fun/blog/s2c08) - Tue, 23 May 2023
 
 [⚽ 使用 KNIME 分析足球比赛数据](https://havef.fun/blog/knime-football-passes-analysis) - Tue, 16 May 2023
-
-[🥷 [S2] Challenge 07](https://havef.fun/blog/s2c07) - Mon, 15 May 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

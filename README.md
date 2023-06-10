@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[💡 苏格拉底式提问法](https://havef.fun/blog/Socratic-questioning-in-AI-era) - Fri, 09 Jun 2023
+
 [GroupBy 节点的 Pattern Based Aggregation 标签页](https://havef.fun/blog/groupby-pattern-based-aggregation) - Mon, 05 Jun 2023
 
 [🥷 [S2] Challenge 10](https://havef.fun/blog/s2c10) - Thu, 01 Jun 2023
@@ -37,8 +39,6 @@
 [🔎 KNIME 节点巡礼 -- row filter（行过滤）节点](https://havef.fun/blog/knime-row-filter) - Wed, 24 May 2023
 
 [🥷 [S2] Challenge 08](https://havef.fun/blog/s2c08) - Tue, 23 May 2023
-
-[⚽ 使用 KNIME 分析足球比赛数据](https://havef.fun/blog/knime-football-passes-analysis) - Tue, 16 May 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

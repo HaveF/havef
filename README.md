@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[KNIME工作流和节点比较功能](https://havef.fun/blog/KNIME-workflow-node-comparison) - Fri, 30 Jun 2023
+
 [🥷 [S2] Challenge 13](https://havef.fun/blog/s2c13) - Tue, 27 Jun 2023
 
 [🥷 [S2] Challenge 12](https://havef.fun/blog/s2c12) - Sun, 18 Jun 2023
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 10](https://havef.fun/blog/s2c10) - Thu, 01 Jun 2023
 
 [🥷 [S2] Challenge 09](https://havef.fun/blog/s2c09) - Mon, 29 May 2023
-
-[【论文简评】GPT-4 是一个好的数据分析师吗？](https://havef.fun/blog/is-gpt4-a-good-data-analyst) - Sun, 28 May 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

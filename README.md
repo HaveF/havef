@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[🥷 [S2] Challenge 14](https://havef.fun/blog/s2c14) - Tue, 04 Jul 2023
+
 [KNIME工作流和节点比较功能](https://havef.fun/blog/KNIME-workflow-node-comparison) - Fri, 30 Jun 2023
 
 [🥷 [S2] Challenge 13](https://havef.fun/blog/s2c13) - Tue, 27 Jun 2023
@@ -37,8 +39,6 @@
 [GroupBy 节点的 Pattern Based Aggregation 标签页](https://havef.fun/blog/groupby-pattern-based-aggregation) - Mon, 05 Jun 2023
 
 [🥷 [S2] Challenge 10](https://havef.fun/blog/s2c10) - Thu, 01 Jun 2023
-
-[🥷 [S2] Challenge 09](https://havef.fun/blog/s2c09) - Mon, 29 May 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

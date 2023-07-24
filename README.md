@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[💡 对橡子的恐惧](https://havef.fun/blog/fear-of-acorns) - Sun, 23 Jul 2023
+
 [🥷 [S2] Challenge 16](https://havef.fun/blog/s2c16) - Tue, 18 Jul 2023
 
 [🔎 KNIME 节点巡礼 -- Data Explorer（数据浏览器）节点](https://havef.fun/blog/Data-Explorer) - Thu, 13 Jul 2023
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 13](https://havef.fun/blog/s2c13) - Tue, 27 Jun 2023
 
 [🥷 [S2] Challenge 12](https://havef.fun/blog/s2c12) - Sun, 18 Jun 2023
-
-[🥷 [S2] Challenge 11](https://havef.fun/blog/s2c11) - Sun, 11 Jun 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

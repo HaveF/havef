@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[🥷 [S2] Challenge 18](https://havef.fun/blog/s2c18) - Tue, 01 Aug 2023
+
 [💡 利用人工智能进行自我理解](https://havef.fun/blog/know-yourself-by-ai) - Tue, 25 Jul 2023
 
 [🥷 [S2] Challenge 17](https://havef.fun/blog/s2c17) - Mon, 24 Jul 2023
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 15](https://havef.fun/blog/s2c15) - Tue, 11 Jul 2023
 
 [🥷 [S2] Challenge 14](https://havef.fun/blog/s2c14) - Tue, 04 Jul 2023
-
-[KNIME工作流和节点比较功能](https://havef.fun/blog/KNIME-workflow-node-comparison) - Fri, 30 Jun 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

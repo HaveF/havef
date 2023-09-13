@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[🥷 [S2] Challenge 24](https://havef.fun/blog/s2c24) - Tue, 12 Sep 2023
+
 [💡 如何阅读一本书(上)](https://havef.fun/blog/how-to-read-a-book-a) - Fri, 08 Sep 2023
 
 [🥷 [S2] Challenge 23](https://havef.fun/blog/s2c23) - Mon, 04 Sep 2023
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 19](https://havef.fun/blog/s2c19) - Tue, 08 Aug 2023
 
 [🥷 [S2] Challenge 18](https://havef.fun/blog/s2c18) - Tue, 01 Aug 2023
-
-[💡 利用人工智能进行自我理解](https://havef.fun/blog/know-yourself-by-ai) - Tue, 25 Jul 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

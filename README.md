@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[🥷 [S2] Challenge 28](https://havef.fun/blog/s2c28) - Sun, 08 Oct 2023
+
 [🥷 [S2] Challenge 27](https://havef.fun/blog/s2c27) - Tue, 03 Oct 2023
 
 [🥷 [S2] Challenge 26](https://havef.fun/blog/s2c26) - Tue, 26 Sep 2023
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 23](https://havef.fun/blog/s2c23) - Mon, 04 Sep 2023
 
 [🥷 [S2] Challenge 22](https://havef.fun/blog/s2c22) - Thu, 24 Aug 2023
-
-[🥷 [S2] Challenge 21](https://havef.fun/blog/s2c21) - Tue, 22 Aug 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

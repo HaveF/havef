@@ -24,6 +24,12 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[为期 90 天的免费数据科学认证（KNIME）](https://havef.fun/blog/free-certifi) - Fri, 02 Feb 2024
+
+[KNIME 节点之战(Game of Nodes)锦标赛](https://havef.fun/blog/game-of-nodes) - Wed, 31 Jan 2024
+
+[也许你不需要人工智能](https://havef.fun/blog/maybe-you-dont-need-ai) - Sat, 16 Dec 2023
+
 [🥷 [S2] Challenge 30](https://havef.fun/blog/s2c30) - Fri, 20 Oct 2023
 
 [🥷 [S2] Challenge 29](https://havef.fun/blog/s2c29) - Mon, 16 Oct 2023
@@ -33,12 +39,6 @@
 [🥷 [S2] Challenge 27](https://havef.fun/blog/s2c27) - Tue, 03 Oct 2023
 
 [🥷 [S2] Challenge 26](https://havef.fun/blog/s2c26) - Tue, 26 Sep 2023
-
-[🥷 [S2] Challenge 25](https://havef.fun/blog/s2c25) - Mon, 18 Sep 2023
-
-[🥷 [S2] Challenge 24](https://havef.fun/blog/s2c24) - Tue, 12 Sep 2023
-
-[💡 如何阅读一本书(上)](https://havef.fun/blog/how-to-read-a-book-a) - Fri, 08 Sep 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

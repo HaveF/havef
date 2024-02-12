@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[(2014)什么科学理念应该准备退休 -- 标准差 by Nassim Nicholas Taleb](https://havef.fun/blog/retirement-std) - Sun, 11 Feb 2024
+
 [为期 90 天的免费数据科学认证（KNIME）](https://havef.fun/blog/free-certifi) - Fri, 02 Feb 2024
 
 [KNIME 节点之战(Game of Nodes)锦标赛](https://havef.fun/blog/game-of-nodes) - Wed, 31 Jan 2024
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 28](https://havef.fun/blog/s2c28) - Sun, 08 Oct 2023
 
 [🥷 [S2] Challenge 27](https://havef.fun/blog/s2c27) - Tue, 03 Oct 2023
-
-[🥷 [S2] Challenge 26](https://havef.fun/blog/s2c26) - Tue, 26 Sep 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

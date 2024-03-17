@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[什么是 KNIME Hub(2024)](https://havef.fun/blog/what-is-knime-hub-2024) - Sat, 16 Mar 2024
+
 [KNIME 4.7 - 5.3 中的新节点 -- 行到列名](https://havef.fun/blog/new-node-row-to-column-names) - Tue, 27 Feb 2024
 
 [(2014)什么科学理念应该准备退休 -- 标准差 by Nassim Nicholas Taleb](https://havef.fun/blog/retirement-std) - Sun, 11 Feb 2024
@@ -37,8 +39,6 @@
 [🥷 [S2] Challenge 30](https://havef.fun/blog/s2c30) - Fri, 20 Oct 2023
 
 [🥷 [S2] Challenge 29](https://havef.fun/blog/s2c29) - Mon, 16 Oct 2023
-
-[🥷 [S2] Challenge 28](https://havef.fun/blog/s2c28) - Sun, 08 Oct 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

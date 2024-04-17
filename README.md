@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[KNIME 国际化支持投票](https://havef.fun/blog/KNIME-i18n-Chinese) - Tue, 16 Apr 2024
+
 [Game of Nodes 8进4, 指北君惨遭淘汰](https://havef.fun/blog/game-of-nodes-8-4) - Mon, 01 Apr 2024
 
 [Game of Nodes 16进8](https://havef.fun/blog/game-of-nodes-16-8) - Tue, 19 Mar 2024
@@ -37,8 +39,6 @@
 [为期 90 天的免费数据科学认证（KNIME）](https://havef.fun/blog/free-certifi) - Fri, 02 Feb 2024
 
 [KNIME 节点之战(Game of Nodes)锦标赛](https://havef.fun/blog/game-of-nodes) - Wed, 31 Jan 2024
-
-[也许你不需要人工智能](https://havef.fun/blog/maybe-you-dont-need-ai) - Sat, 16 Dec 2023
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">

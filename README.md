@@ -24,7 +24,7 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
-[KNIME正在煮什么(What's cooking)-2024/05](https://havef.fun/blog/KNIME-Whats-Cooking-240503) - Fri, 03 May 2024
+[KNIME 正在煮什么(What's cooking)-2024/05](https://havef.fun/blog/KNIME-Whats-Cooking-240503) - Fri, 03 May 2024
 
 [KNIME 国际化支持投票](https://havef.fun/blog/KNIME-i18n-Chinese) - Tue, 16 Apr 2024
 

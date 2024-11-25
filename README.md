@@ -24,6 +24,8 @@
  
  ### 最近的 Blog
 <!-- blog starts -->
+[KNIME 5.4 前瞻(2024.12) - 多个表达式功能](https://havef.fun/blog/knime-5.4-new-expression-feature) - Sun, 24 Nov 2024
+
 [别再当这样的工程师了（当构建人工智能时）【转载】](https://havef.fun/blog/stop-being-such-an-engineer) - Sat, 23 Nov 2024
 
 [钱度量衡](https://havef.fun/blog/weights-with-money-and-time) - Thu, 29 Aug 2024
@@ -37,8 +39,6 @@
 [KNIME 国际化支持投票](https://havef.fun/blog/KNIME-i18n-Chinese) - Tue, 16 Apr 2024
 
 [Game of Nodes 8进4, 指北君惨遭淘汰](https://havef.fun/blog/game-of-nodes-8-4) - Mon, 01 Apr 2024
-
-[Game of Nodes 16进8](https://havef.fun/blog/game-of-nodes-16-8) - Tue, 19 Mar 2024
 <!-- blog ends -->
 More on <a href="https://havef.fun/blog" target="_blank">https://havef.fun/blog</a>
 </td><td valign="top" width="33%">
